@@ -3,7 +3,7 @@ CPE-123-Projects
 
 Hi! Thanks for taking a look.
 
-These are some projects/games that I've made on while learning Java in the introductory course CPE123 during Fall 2011. While these games have been made in roughly 1-3 weeks each, I spent sleepless nights working on them and I'm proud of them and would be happy if you would give them a try. 
+These are some projects/games that I've made on while learning Java in the introductory course CPE123 during Fall 2011. While these games have been made in roughly 1-3 weeks each, I spent sleepless nights working on and would be really happy if you would give them a try. 
 
 These games require processing to compile and run: https://processing.org/download/
 
